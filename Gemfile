@@ -26,7 +26,7 @@ gem 'jbuilder', '~> 2.7'
 # gem 'image_processing', '~> 1.2'
 gem 'jquery-rails'
 gem 'bootstrap', '~> 5.1.3'
-gem 'stock_quote', '~> 3.0'
+gem 'devise', '~> 4.8'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
