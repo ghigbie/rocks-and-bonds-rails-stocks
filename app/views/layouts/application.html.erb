@@ -14,8 +14,7 @@
     <%= render 'partials/navbar' %>
     <div class="container">
       </br>
-      <p class="notice"><%= notice %></p>
-      <p class="alert"><%= alert %></p>
+      <%= render 'partials/flash' %>
       <%= yield %>
     </div>
   </body>
